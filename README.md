@@ -16,3 +16,12 @@ y para contruil el build:dev (desarrollo), usar:
 ```
 npm run build:dev
 ```
+Tambien recordar que para ver el repositorio vincularo usarmos el comando:
+```
+git remote -v
+```
+para borrar el mismo usamos:
+```
+git remote rm origin
+```
+gracias :D
